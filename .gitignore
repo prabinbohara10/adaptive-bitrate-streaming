@@ -1,0 +1,7 @@
+sample_videos
+media
+
+node_modules
+package-lock.json
+
+.env
